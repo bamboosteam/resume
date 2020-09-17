@@ -1,4 +1,8 @@
 # 履歴書
+|氏名|竹澤　卓馬|
+|GitHub|bamboosteam|
+|twitter|@bamboo_steam|
+
 ## スキル
 - Java
 - Python
