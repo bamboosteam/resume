@@ -1,5 +1,5 @@
 # 履歴書
-
+## 取得技術
 - Java
 - Python
 - Spring
