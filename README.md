@@ -1,5 +1,5 @@
 # 履歴書
-## 技術経験
+## スキル
 - Java
 - Python
 - Spring
